@@ -1,0 +1,37 @@
+# Altium Project
+
+# Ignore temporary and backup files
+*.bak             # Backup files
+*.temp            # Temporary files
+*.log             # Log files
+*.~*              # Backup files (created when saving)
+
+# Altium Design Files
+*.OutJob          # Output job files
+*.CmpLib          # Component Library
+
+# Altium Simulation Files
+*.SimData         # Simulation data files
+*.FtpCfg          # FTP configuration files
+*.Dsn              # Legacy design files
+*.SchSchematic    # Schematic sheets
+*.PcbSchematic    # PCB sheets
+
+# Ignore Altium Cache and AutoSave files
+*.SchDoc.autosave # Auto-save files
+*.PcbDoc.autosave # Auto-save files
+*.Bak             # Auto-backup files
+*.PrjPCB.bak      # Backup PCB project files
+*.PrjSch.bak      # Backup schematic project files
+
+# Ignore files created by Altium’s output generation
+*.dru             # Design Rule Check output files
+*.fmx             # File exchange format
+*.pcb              # Gerber, NC drill files
+
+# Ignore temporary files created by Altium Designer
+*.idb             # Intermediate database files
+*.OutJob          # Output job files
+
+# Ignore compiled and generated data
+*.PcbDoc.Compiled # Compiled PCB documents

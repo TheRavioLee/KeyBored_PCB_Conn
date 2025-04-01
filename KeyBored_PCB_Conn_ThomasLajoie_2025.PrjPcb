@@ -105,13 +105,51 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=..\KeyBored_PCB\KeyBored_PCB_ThomasLajoie_2025.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\KeyBored_PCB\KeyBored_PCB_ThomasLajoie_2025.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
+Name=Revision
+Value=Rev.C
+
+[Parameter2]
 Name=NomDeProjet
 Value=Mon Projet
 
-[Parameter2]
-Name=Revision
-Value=Rev.C
+[DiffPairSuffix1]
+Positive=_+
+Negative=_-
 
 [Configuration1]
 Name=Sources

@@ -1,0 +1,4 @@
+Added Component: Designator=MH1(MTH_ROUND_4.1D)
+Added Component: Designator=MH2(MTH_ROUND_4.1D)
+Added Member To Class: ClassName=Connecteur Member=Component MH1 4.1mm
+Added Member To Class: ClassName=Connecteur Member=Component MH2 4.1mm

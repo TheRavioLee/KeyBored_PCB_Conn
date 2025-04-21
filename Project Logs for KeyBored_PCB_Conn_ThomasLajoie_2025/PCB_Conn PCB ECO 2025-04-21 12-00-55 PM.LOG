@@ -1,0 +1,122 @@
+Added Component: Designator=J1(HRO_TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(JST_SM09B-SRSS-TB(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SM09B-SRSS-TB(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM09B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM09B-SRSS-TB(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603-CAPS)
+Added Component: Designator=R2(0603-CAPS)
+Added Component: Designator=R3(0603-CAPS)
+Added Component: Designator=R4(0603-CAPS)
+Added Component: Designator=R5(0603-CAPS)
+Added Component: Designator=R6(0603-CAPS)
+Added Component: Designator=SW1(SSSS812201)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/15/SSSS8-1370998.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSSS812201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-SSSS812201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SSSS812201?qs=4QwOlnKYOEu3rPQUm%2FWUjw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SSSS811101)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSSS811101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssss811101/alps-electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSSS811101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-SSSS811101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SSSS811101?qs=m0BA540hBPe%2FELmLcs%2FcCA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J2-6
+Added Pin To Net: NetName=+3.3V Pin=R4-2
+Added Pin To Net: NetName=+3.3V Pin=R5-2
+Added Pin To Net: NetName=+3.3V Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=SW2-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=BOOT0 Pin=J2-7
+Added Pin To Net: NetName=BOOT0 Pin=R3-1
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-MP1
+Added Pin To Net: NetName=GND Pin=SW1-MP2
+Added Pin To Net: NetName=GND Pin=SW1-MP3
+Added Pin To Net: NetName=GND Pin=SW1-MP4
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW2-5
+Added Pin To Net: NetName=GND Pin=SW2-6
+Added Pin To Net: NetName=GND Pin=SW2-7
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-2
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2-1
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW2-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=OS_1 Pin=J2-3
+Added Pin To Net: NetName=OS_1 Pin=R4-1
+Added Pin To Net: NetName=OS_1 Pin=SW1-1
+Added Net: Name=OS_1
+Added Pin To Net: NetName=OS_2 Pin=J2-4
+Added Pin To Net: NetName=OS_2 Pin=R5-1
+Added Pin To Net: NetName=OS_2 Pin=SW1-2
+Added Net: Name=OS_2
+Added Pin To Net: NetName=OS_3 Pin=J2-5
+Added Pin To Net: NetName=OS_3 Pin=R6-1
+Added Pin To Net: NetName=OS_3 Pin=SW1-4
+Added Net: Name=OS_3
+Added Pin To Net: NetName=USBD_+ Pin=J1-A6
+Added Pin To Net: NetName=USBD_+ Pin=J1-B6
+Added Pin To Net: NetName=USBD_+ Pin=J2-9
+Added Pin To Net: NetName=USBD_+ Pin=U2-1
+Added Pin To Net: NetName=USBD_+ Pin=U2-6
+Added Net: Name=USBD_+
+Added Pin To Net: NetName=USBD_- Pin=J1-A7
+Added Pin To Net: NetName=USBD_- Pin=J1-B7
+Added Pin To Net: NetName=USBD_- Pin=J2-8
+Added Pin To Net: NetName=USBD_- Pin=U2-3
+Added Pin To Net: NetName=USBD_- Pin=U2-4
+Added Net: Name=USBD_-
+Added Pin To Net: NetName=VBUS Pin=J1-A4_B9
+Added Pin To Net: NetName=VBUS Pin=J1-B4_A9
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Pin To Net: NetName=VBUS Pin=U2-5
+Added Net: Name=VBUS
+Added Class: Name=Connecteur
+Added Differential Pair: Name=USBD
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

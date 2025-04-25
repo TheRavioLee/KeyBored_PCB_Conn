@@ -161,63 +161,79 @@ DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\Design Rule
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn-RoundHoles.TXT
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn-SlotHoles.TXT
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.DRR
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.EXTREP
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBL
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBO
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBP
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBS
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTL
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTO
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTP
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTS
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.LDP
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.REP
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\PCB_Conn.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\Pick Place for PCB_Conn.csv
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for KeyBored_PCB_Conn_ThomasLajoie_2025\Pick Place for PCB_Conn.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -475,27 +491,31 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Pick Place
-OutputName2=Generates pick and place files
+OutputType2=Wire Bonding Table
+OutputName2=Wire Bonding Table Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+Configuration4_Name1=ForceUpdateSettings
+Configuration4_Item1=False
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#18=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#19=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#20=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#21=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#22=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#23=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#24=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#25=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#26=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#27=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#28=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#29=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#30=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#31=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#32=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#33=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#34=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|DocumentPath=C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB_Conn\PCB_Conn.PcbDoc
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -550,7 +570,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes|DocumentPath=C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB_Conn\PCB_Conn.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=314961|GenerateBoardEdgeRout=True|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes|DocumentPath=C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB_Conn\PCB_Conn.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -575,7 +595,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB_Conn\PCB_Conn.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908290~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB_Conn\PCB_Conn.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -597,9 +617,9 @@ Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Line #=52|Comment=144|Description=100|Designator=91|Quantity=64|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=121|Supplier Subtotal 1=115
+Configuration1_Item5=Line #=52|Comment=144|Description=100|Designator=91|Quantity=64|LCSC Part #=81
 Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Line #=52|Comment=144|Description=100|Designator=91|Quantity=64|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=121|Supplier Subtotal 1=115
+Configuration1_Item6=Line #=52|Comment=144|Description=100|Designator=91|Quantity=64|LCSC Part #=81
 Configuration1_Name7=VisibleOrder_Consolidated
 Configuration1_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=97|Manufacturer Part Number 1=161|Manufacturer Lifecycle 1=141|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=121|Supplier Subtotal 1=115
 Configuration1_Name8=VisibleOrder_Flat
